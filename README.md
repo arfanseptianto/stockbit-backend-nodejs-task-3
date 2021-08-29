@@ -49,3 +49,9 @@ function findFirstStringInBracket(str) {
     return wordsAfterFirstBracket.substring(0, indexClosingBracketFound); 
 }
 ```
+
+### EXECUTE THE JS FILE
+You can use Node.JS to run the js file from terminal by executing:
+```bash
+node index.js
+```
